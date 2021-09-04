@@ -2,6 +2,8 @@
 
 # Hong Beomsun
 
+### 충북대학교 소프트웨어학과
+
 <div align=center>
 </br>
 
