@@ -2,7 +2,7 @@
 
 # Hong Beomsun
 
-### 충북대학교 소프트웨어학과
+### 충북대학교 소프트웨어학과 19학번 홍범순
 
 <div align=center>
 </br>
