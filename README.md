@@ -27,6 +27,7 @@
 <img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=flat-square&logo=VisualStudiocode&logoColor=white"/></a> &nbsp 
 <img src="https://img.shields.io/badge/Google Colab-232F3E?style=flat-square&logo=GoogleColab&logoColor=white"/></a> &nbsp 
 <img src="https://img.shields.io/badge/Visual Studio-5C2D91?style=flat-square&logo=VisualStudio&logoColor=white"/></a> &nbsp 
+<img src="https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=Jupyter&logoColor=white"/></a> &nbsp 
 
 </p>
   
