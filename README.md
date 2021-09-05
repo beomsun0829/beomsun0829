@@ -7,8 +7,9 @@
 <div align=center>
 </br>
 
-  ![github stats](https://github-readme-stats.vercel.app/api?username=beomsun0829&show_icons=true&theme=github_dark ) 
+  ![github stats](https://github-readme-stats.vercel.app/api?username=beomsun0829&show_icons=true&theme=github_dark )
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=beomsun0829&layout=compact&theme=dracula)](https://github.com/metleeha)
+
   
 </br>
 
@@ -31,10 +32,13 @@
 
 </p>
   
-  
-  
-  
 </div>
+
+<p>
+<img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:ghsqjatns@gmail.com"/></a> &nbsp 
+<img src="http://img.shields.io/badge/-Instagram-black?style=flat&logo=Instagram&link=https://instagram.com/beomsun_kun/"/></a> &nbsp 
+
+</p>
 
 
 
