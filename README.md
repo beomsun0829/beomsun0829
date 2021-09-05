@@ -6,11 +6,13 @@
 
 <div align=center>
 </br>
+</br>
 
   ![github stats](https://github-readme-stats.vercel.app/api?username=beomsun0829&show_icons=true&theme=github_dark )
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=beomsun0829&layout=compact&theme=dracula)](https://github.com/metleeha)
 
   
+</br>
 </br>
 
 <p align="center">
@@ -24,6 +26,7 @@
 <img src="https://img.shields.io/badge/Google Cloud Computing-232F3E?style=flat-square&logo=GoogleCloud&logoColor=white"/></a>
 </p>
 
+
 <p align="center">
 <img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=flat-square&logo=VisualStudiocode&logoColor=white"/></a> &nbsp 
 <img src="https://img.shields.io/badge/Google Colab-232F3E?style=flat-square&logo=GoogleColab&logoColor=white"/></a> &nbsp 
@@ -33,6 +36,13 @@
 </p>
   
 </div>
+
+
+</br>
+<hr>
+
+
+
 
 <a href="https://beomsun0829.tistory.com/"> <img src="http://img.shields.io/badge/-Tech%20Blog-655ced?style=flat&logo=github&link=https://beomsun0829.tistory.com/" style="height : auto; margin-left : 10px; margin-right : 10px;"/>
 </a>
