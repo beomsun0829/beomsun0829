@@ -38,7 +38,7 @@
 </a>
 <a href="https://instagram.com/beomsun_kun"> <img src="http://img.shields.io/badge/-Instagram-black?style=flat&logo=Instagram&link=https://instagram.com/beomsun_kun/" style="height : auto; margin-left : 10px; margin-right : 10px;"/>
 </a>
-<a href="mailto:ghsqjatns@gmail.com"> <img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:ghsqjatns@gmail.com" style="height : auto; margin-left : 10px; margin-right : 10px;"/>
+<a href="mailto:ghsqjatns@gmail.com"> <img src="https://img.shields.io/badge/ghsqjatns@gmail.com-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:ghsqjatns@gmail.com" style="height : auto; margin-left : 10px; margin-right : 10px;"/>
 </a>
 
 
