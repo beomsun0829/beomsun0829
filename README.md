@@ -63,11 +63,6 @@
 
 <hr>
 
-### NFT
-
-<a href="https://opensea.io/assets/matic/0xa153535bc89b870c620c1bf452034be4946e3b31/791?chainIdentifier=matic&assetContractAddress=0xa153535bc89b870c620c1bf452034be4946e3b31&tokenId=791&locale=ko"> <img src="https://lh3.googleusercontent.com/_w_tZjhsD65taPXoV0nfdmTgTMdrt_HtbwyhxBXhzvMM7NzkYeWK4s5E4ca_jYvbmJWYv0or-MZEZ2b1GzFGE9kOHtXZWVsvWAjXlg=w600" style="height : auto; margin-left : 10px; margin-right : 10px;"/>
-</a>
-
 
 
 
