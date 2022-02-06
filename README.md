@@ -9,9 +9,9 @@
 </br>
 
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=beomsun0829&" alt="beomsun0829" /></p>
+<p align="left"><img src="https://github-readme-streak-stats.herokuapp.com/?user=beomsun0829&" alt="beomsun0829" /></p>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=beomsun0829&show_icons=true&locale=en&layout=compact" alt="beomsun0829" /></p>
+<p align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=beomsun0829&show_icons=true&locale=en&layout=compact" alt="beomsun0829" /></p>
 
 <br/>
 <br/>
@@ -68,16 +68,8 @@
 
 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api?username=beomsun0829&show_icons=true&locale=en" alt="beomsun0829" /></p>
+<p align="left" ><img src="https://github-readme-stats.vercel.app/api?username=beomsun0829&show_icons=true&locale=en" alt="beomsun0829" /></p>
 
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
 <br/>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=beomsun0829" alt="beomsun0829" /></a> </p>
