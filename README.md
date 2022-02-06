@@ -8,10 +8,19 @@
 </br>
 </br>
 
-  ![github stats](https://github-readme-stats.vercel.app/api?username=beomsun0829&show_icons=true&theme=github_dark )
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=beomsun0829&layout=compact&theme=dracula)](https://github.com/metleeha)
 
+<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=beomsun0829&" alt="beomsun0829" /></p>
+
+<p><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=beomsun0829&show_icons=true&locale=en&layout=compact" alt="beomsun0829" /></p>
   
+</br>
+</br>
+</br>
+</br>
+</br>
+</br>
+</br>
+</br>
 </br>
 </br>
 
@@ -34,6 +43,8 @@
 
 
 </br>
+
+
 <p align="center">
 <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=Windows&logoColor=white"/></a>  
 <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=Linux&logoColor=black"/></a> 
@@ -43,15 +54,12 @@
 <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=Jupyter&logoColor=white"/></a>  
 
 </p>
-  
 </div>
 
 
 <hr>
 
-
-
-
+<p align="center">
 <a href="mailto:ghsqjatns@gmail.com"> <img src="https://img.shields.io/badge/ghsqjatns@gmail.com-d14836?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:ghsqjatns@gmail.com" style="height : auto; margin-left : 10px; margin-right : 10px;"/>
 </a>
 <a href="https://beomsun0829.tistory.com/"> <img src="http://img.shields.io/badge/-Tech%20Blog-655ced?style=for-the-badge&logo=github&logoColor=white&link=https://beomsun0829.tistory.com/" style="height : auto; margin-left : 10px; margin-right : 10px;"/>
@@ -60,24 +68,24 @@
 </a>
 <a href="https://www.facebook.com/beomsun0829"> <img src="http://img.shields.io/badge/-facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white&link=https://www.facebook.com/beomsun0829" style="height : auto; margin-left : 10px; margin-right : 10px;"/>
 </a>
+</p>
+
 
 <hr>
 
 
 
 
+<p><img align="left" src="https://github-readme-stats.vercel.app/api?username=beomsun0829&show_icons=true&locale=en" alt="beomsun0829" /></p>
 
-<!--
-**beomsun0829/beomsun0829** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=beomsun0829" alt="beomsun0829" /></a> </p>
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+</p>
+
+<h3 align="left">Languages and Tools:</h3>
+
+
