@@ -43,7 +43,7 @@
 </p>
 
 <p align="center">
-<img src="https://img.shields.io/badge/Tensorflow-FF6F00?style=for-the-badge&logo=Tensorflow&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=PyTorch&logoColor=white"/>
 <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=Pandas&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Google Cloud Computing-232F3E?style=for-the-badge&logo=GoogleCloud&logoColor=white"/></a> 
 <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=OpenAI&logoColor=white"/></a>  
