@@ -91,5 +91,6 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=beomsun0829" alt="beomsun0829" /></a> </p>
 
 ```math
-\ce{$&#x5C;unicode[inherit; pointer-events: none; z-index: -10; position: fixed; inset: 0; width:100vw; height: 100vh; background: linear-gradient(180deg, rgba(234, 134, 104, 0) 0%, rgba(234, 134, 104, 0.25) 100%)]{x0000}$}
+\ce{$&#x5C;unicode[inherit; pointer-events: none; z-index: -10; position: fixed; inset: 0; width:100vw; height: 100vh; background: linear-gradient(180deg, rgba(104, 159, 234, 0) 0%, rgba(104, 159, 234, 0.25) 100%)]{x0000}$}
+
 ```
