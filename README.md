@@ -3,6 +3,7 @@
 # Hong Beomsun
 
 ### 충북대학교 소프트웨어학과
+### CHUNGBUK NATIONAL UNIVERSITY, SOFTWARE
 
 <div align=center>
 </br>
