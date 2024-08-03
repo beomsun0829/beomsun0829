@@ -2,8 +2,9 @@
 
 # Hong Beomsun
 
-### 충북대학교 소프트웨어학과
 ### CHUNGBUK NATIONAL UNIVERSITY, SOFTWARE
+### MENSA KOREA
+### US 8TH ARMY 1ST SIGNAL, ETS
 
 <div align=center>
 </br>
