@@ -6,14 +6,15 @@
 ### MENSA Korea
 ### US 8th ARMY 1st Signal, ETS
 
+
+</br>
+https://portfolio-beomsun.vercel.app/
+
 <div align=center>
 </br>
 </br>
 
-
-<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=beomsun0829&show_icons=true&locale=en&layout=compact" alt="beomsun0829" /></p>
 <p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=beomsun0829&" alt="beomsun0829" /></p>
-
 
 <br/>
 <br/>
@@ -86,11 +87,12 @@
 
 
 
-<p align="left" ><img src="https://github-readme-stats.vercel.app/api?username=beomsun0829&show_icons=true&locale=en" alt="beomsun0829" /></p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=beomsun0829" alt="beomsun0829" /></a> </p>
 
 <br/>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=beomsun0829" alt="beomsun0829" /></a> </p>
+<p align="left" ><img src="https://github-readme-stats.vercel.app/api?username=beomsun0829&show_icons=true&locale=en" alt="beomsun0829" /></p>
+
 
 ```math
 \ce{$&#x5C;unicode[inherit; pointer-events: none; z-index: -10; position: fixed; inset: 0; width:100vw; height: 100vh; background: linear-gradient(180deg, rgba(104, 159, 234, 0) 0%, rgba(104, 159, 234, 0.25) 100%)]{x0000}$}
