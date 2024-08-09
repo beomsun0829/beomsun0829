@@ -77,8 +77,6 @@ https://portfolio-beomsun.vercel.app/
 </a>
 <a href="https://beomsun0829.tistory.com/"> <img src="http://img.shields.io/badge/-Tech%20Blog-655ced?style=for-the-badge&logo=github&logoColor=white&link=https://beomsun0829.tistory.com/" style="height : auto; margin-left : 10px; margin-right : 10px;"/>
 </a>
-<a href="https://instagram.com/beomsunhong"> <img src="http://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&link=https://instagram.com/beomsun_kun/" style="height : auto; margin-left : 10px; margin-right : 10px;"/>
-</a>
 </p>
 
 
