@@ -24,49 +24,28 @@ https://portfolio-beomsun.vercel.app/
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=C&logoColor=black"/></a>
 <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=C%2B%2B&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=C%20Sharp&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/JavaScript-f7df1e?style=for-the-badge&logo=javascript&logoColor=black"/></a>
 <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/GO-00ADD8?style=for-the-badge&logo=go&logoColor=white"/></a>
 <br/>
 
-<img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black"/></a>
+<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=PyTorch&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/MLFlow-0194E2?style=for-the-badge&logo=MLFlow&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=Django&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/NodeJs-339933?style=for-the-badge&logo=Node.Js&logoColor=black"/></a>
-<img src="https://img.shields.io/badge/Tsnode-3178C6?style=for-the-badge&logo=tsnode&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/NGINX-009639?style=for-the-badge&logo=Nginx&logoColor=black"/></a>
+<img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=FastAPI&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/Nest.js-E0234E?style=for-the-badge&logo=NestJS&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white"/></a>
 <br/>
 
-<img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=Android&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/AndroidStudio-3DDC84?style=for-the-badge&logo=AndroidStudio&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=HTML5&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=CSS3&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white"/></a>
-</br>
+<img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=Amazon%20AWS&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/Google%20Cloud-4285F4?style=for-the-badge&logo=Google%20Cloud&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=Microsoft%20Azure&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=Docker&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=Kubernetes&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=Git&logoColor=white"/></a>
 
 </p>
 
-<p align="center">
-<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=PyTorch&logoColor=white"/>
-<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=Pandas&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/Google Cloud Computing-232F3E?style=for-the-badge&logo=GoogleCloud&logoColor=white"/></a> 
-<img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=OpenAI&logoColor=white"/></a>  
-<img src="https://img.shields.io/badge/Opencv-5C3EE8?style=for-the-badge&logo=Opencv&logoColor=white"/></a>
-</p>
-
-
-
-</br>
-
-
-<p align="center">
-<img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=Windows&logoColor=white"/></a>  
-<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=Linux&logoColor=black"/></a>
-<img src="https://img.shields.io/badge/Google Colab-232F3E?style=for-the-badge&logo=GoogleColab&logoColor=white"/></a> 
-<img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=for-the-badge&logo=VisualStudiocode&logoColor=white"/></a> 
-<img src="https://img.shields.io/badge/Visual Studio-5C2D91?style=for-the-badge&logo=VisualStudio&logoColor=white"/></a>  
-<img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=Jupyter&logoColor=white"/></a>  
-
-</p>
 </div>
 
 
