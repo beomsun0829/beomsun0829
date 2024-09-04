@@ -7,16 +7,16 @@
 ### US 8th ARMY 1st Signal, ETS
 
 
-</br>
-https://portfolio-beomsun.vercel.app/
+<br/>
+<p> https://portfolio-beomsun.vercel.app/ </p>
+<br/>
+
+
 
 <div align=center>
-</br>
-</br>
-
+  
 <p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=beomsun0829&" alt="beomsun0829" /></p>
 
-<br/>
 <br/>
 
 <p align="center">
@@ -44,6 +44,10 @@ https://portfolio-beomsun.vercel.app/
 <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=Kubernetes&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=Git&logoColor=white"/></a>
 
+</p>
+
+<p align="center">
+  <img src="neofetch.png" alt="Neofetch" style="width:700px;"/>
 </p>
 
 </div>
