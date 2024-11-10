@@ -8,10 +8,9 @@
 
 
 <br/>
+<p> https://beomsun0829.tistory.com/ </p>
 <p> https://portfolio-beomsun.vercel.app/ </p>
 <br/>
-
-
 
 <div align=center>
   
