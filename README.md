@@ -13,8 +13,6 @@
 <br/>
 
 <div align=center>
-  
-<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=beomsun0829&" alt="beomsun0829" /></p>
 
 <br/>
 
