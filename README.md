@@ -12,6 +12,8 @@
 <p> https://portfolio-beomsun.vercel.app/ </p>
 <br/>
 
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=beomsun0829)](https://solved.ac/beomsun0829/)
+
 <div align=center>
 
 <br/>
